@@ -24,10 +24,10 @@ public class CadastroLancamentoBean implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
 	@Inject
-	private CadastroLancamentos cadastro;
+	private CadastroLancamentos cadastro; 
 	
 	@Inject
-	private Pessoas pessoas;
+	private Pessoas pessoas; 
 	
 	@Inject
 	private Lancamentos lancamentos;
